@@ -1,0 +1,65 @@
+------------
+WM	Openbox
+Theme	Pastel
+http://thearakattack.deviantart.com/art/Pastel-aka-Flatbond-2-BETA-501239557
+---------
+
+---------
+DE	N/A
+---------
+
+---------
+GTK2	Pastel Blue
+GTK3	Pastel Blue
+http://thearakattack.deviantart.com/art/Pastel-aka-Flatbond-2-BETA-501239557
+---------
+
+---------
+Icons	Moka
+moka-icons-git			376.bb0f670-1
+---------
+
+---------
+Fonts	Roboto (pre-Android 5)
+ttf-google-fonts-git		20140826-1
+---------
+
+---------
+Term	xfce4-terminal
+---------
+
+---------
+Panel	xfce4-panel
+xfce4-whiskermenu-plugin	1.4.1-1
+xfce4-windowck-plugin		0.3.0-1
+network-manager-applet		0.9.10.0-2
+xfce4-dockbarx-plugin		0.3.1-1
+xfce4-mixer			4.11.0-1
+
+(top panel)
+Mode: Horizontal
+Row Size (px): 28
+Length (top): 100%
+Color: #222222
+
+(left panel)
+Mode: Vertical
+Row Size (px) 44
+Length: 97%
+Color: #222222
+---------
+
+---------
+Cursor	Adwaita
+---------
+
+---------
+Other
+compton-git			0.1_beta2-4
+maximus				0.4.14-3
+audacious-git			2014.12.24-1
+http://gnome-look.org/content/show.php/Winamp+Classic+skin+for+Audacious?content=135799
+pidgin-numix-tray-icons		1.0-1
+xfce4-volumed-pulse		0.2.0-3
+xcmenu-git			20140816.23-1
+---------

@@ -1,0 +1,9 @@
+(sleep 1s && xfce4-panel) &
+(sleep 1s && compton) &
+(sleep 1s && maximus) &
+(sleep 1s && feh --bg-center /home/theblackparrot/Pictures/mac_wallpaper___flat_colors___1920x1200_by_dakirby309-d7lmemf.jpg) &
+(sleep 2s && xcmenu) &
+(sleep 3s && nm-applet) &
+(sleep 3s && xfce4-volumed-pulse) &
+(sleep 4s && xfce4-notifyd) &
+(sleep 5s && linconnect-server) &
